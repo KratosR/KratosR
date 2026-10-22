@@ -81,16 +81,14 @@ Relational Databases
 - MariaDB
 - Database design, SQL, indexing, migrations, and query optimization
 - Prisma, TypeORM, Entity Framework Core, Hibernate, Django ORM, and Eloquent
-
-
+<br>
 🔧 4. Version Control & Collaboration
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" alt="Git GitHub GitLab GitHub Actions logos" />
 </p>- Git branching, merging, pull requests, and code reviews
 - Issue tracking, collaborative development, and Agile workflows
-
-
+<br>
 🧪 5. Software Testing & Quality Assurance
 
 <p>
@@ -98,8 +96,7 @@ Relational Databases
 </p>- Playwright, Newman, Pytest, JUnit, xUnit, and PHPUnit
 - Unit, integration, API, and end-to-end testing
 - SonarQube, static analysis, debugging, and test automation
-
-
+<br>
 🐳 6. DevOps, CI/CD & Automation
 
 <p>
@@ -110,8 +107,7 @@ Relational Databases
 - Terraform and Ansible
 - Nexus Repository and artifact management
 - Python scripting, shell scripting, automated builds, and deployments
-
-
+<br>
 ☁️ 7. Cloud Computing & Infrastructure
 
 <p>
@@ -120,8 +116,7 @@ Relational Databases
 - Linux servers, virtual machines, networking, DNS, and TLS/SSL
 - Reverse proxies, web servers, and application deployment
 - Infrastructure as Code and cloud-native fundamentals
-
-
+<br>
 📊 8. Monitoring & Observability
 
 <p>
@@ -129,8 +124,7 @@ Relational Databases
 </p>- Metrics, dashboards, logs, and alerts
 - Application performance monitoring
 - Troubleshooting, reliability, and observability fundamentals
-
-
+<br>
 🔐 9. Security & Best Practices
 
 - 🔒 OWASP Top 10 awareness
