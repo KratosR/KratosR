@@ -4,10 +4,6 @@
 
 I’m passionate about building responsive, scalable, secure, and maintainable applications. I enjoy exploring frontend and backend technologies, designing APIs, working with databases, automating workflows, and learning cloud-native development.
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Visit_My_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/rohit-singh-kushwaha)
-""GitHub" (https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/KratosR)
-""Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)" (https://github.com/KratosR)
-
 ---
 
 🧑‍💻 About Me
